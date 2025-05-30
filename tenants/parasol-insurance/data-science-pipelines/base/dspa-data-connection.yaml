@@ -9,7 +9,7 @@ metadata:
     argocd.argoproj.io/sync-wave: '-100'
     opendatahub.io/connection-type: s3
     openshift.io/display-name: dspa-data-connection
-  stringData:
+stringData:
   AWS_ACCESS_KEY_ID: minio
   AWS_DEFAULT_REGION: east-1
   AWS_S3_ENDPOINT: http://minio.object-datastore.svc.cluster.local:9000
