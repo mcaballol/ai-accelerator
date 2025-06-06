@@ -18,5 +18,5 @@ components:
   - ../../components/auth-with-authorino
   - ../../components/components-distributed-compute
 
- # - ../../components/rhoai-auth
- # - ../../components/hardware-profiles-enabled
+  - ../../components/rhoai-auth
+  - ../../components/hardware-profiles-enabled
